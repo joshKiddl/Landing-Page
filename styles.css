@@ -1,0 +1,159 @@
+body {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.header {
+    background: #1f2937;
+    padding-left: 220px;
+    padding-top: 10px;
+}
+
+.hero {
+    background: #1f2937;
+    display: flex;
+    padding-left: 200px;
+    padding-top: 100px;
+    padding-bottom: 200px;
+}
+
+.heroimage {
+    float: right;
+    margin-left: 250px;
+    display: inline;
+    border-radius: 30px 30px 30px 30px;
+}
+
+ul {
+    color: #f9faf8;
+    font-size: 18px;
+    list-style-type: none;
+    margin: 0;
+    padding-right: 50px;
+    padding-top: 20px;
+    overflow: hidden;
+    float:right;
+}
+
+a {
+    text-decoration: none;
+    color: #e5e7eb;
+    font-weight: 700;
+}
+
+li {
+    display:inline;
+    padding-left: 30px;
+}
+
+h1 {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: extra-bold;
+    width: 400px;
+}
+
+.subheader {
+    color: #e5e7eb;
+    font-size: 18px;
+    width: 500px;
+    font-weight: 200;
+}
+
+.sign-up {
+    background-color: #1f97e7; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    border-radius: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.random {
+    color: #1f2937;
+    text-align: center;
+    font-size: 42px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.div3 {
+    padding-bottom: 200px;
+    }
+
+.imagesbox {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.div4 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #e5e7eb;
+    font-size: 36px;
+    text-align: center;
+    justify-content: center;
+    color: #1f2937;
+    display: flex;
+    font-style: italic;
+}
+
+h3 {
+    width: 50%;
+}
+
+h4 {
+    font-size: 50%;
+}
+
+.div5 {
+    background: white;
+    color: white;
+}
+
+.cta {
+    background: #3882f6;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    align-items: center;
+    margin: 100px;
+    border-radius: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-around;
+}
+
+.ctabutton {
+    border-color: white;
+    border-radius: 7px;
+    width: 120px;
+    font-weight: 400;
+    font-size: 20px;
+    height: 40px;
+    background-color: #3882f6;
+    color: white;
+}
+
+h5 {
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+ctatext {
+    font-size: 15px;
+    margin: 5px;
+}
+
+footer {
+    color:#e5e7eb;
+    background-color: #1f2937;
+    display: flex;
+    font-size: 25px;
+    justify-content: center;
+    padding: 30px;
+}
